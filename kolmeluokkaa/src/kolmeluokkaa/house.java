@@ -8,6 +8,7 @@ public class house {
 		this.houseType = houseType;
 		this.colour = colour;
 	}
+	
 	public String getHouseType() {
 		return houseType;
 	}
